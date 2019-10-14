@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTransactionUI", "BankTransactionUI\BankTransactionUI.csproj", "{FD66BD2C-998C-4416-95FE-89E37806605E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD66BD2C-998C-4416-95FE-89E37806605E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD66BD2C-998C-4416-95FE-89E37806605E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD66BD2C-998C-4416-95FE-89E37806605E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD66BD2C-998C-4416-95FE-89E37806605E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BAA174-979F-43F5-A352-E9076EB17AA3}
+	EndGlobalSection
+EndGlobal
